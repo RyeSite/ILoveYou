@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ILoveYou/static/css/main.fffa5dd9.css",
+    "main.js": "/ILoveYou/static/js/main.84a1420c.js",
+    "static/media/FirstKiss2.png": "/ILoveYou/static/media/FirstKiss2.af9d05a635cf6489f61b.png",
+    "static/media/ILoveYou2.png": "/ILoveYou/static/media/ILoveYou2.d0e0a9cf426182a93439.png",
+    "static/media/Trip2.png": "/ILoveYou/static/media/Trip2.dc87b27034b68ad0798f.png",
+    "static/media/FirstMet2.png": "/ILoveYou/static/media/FirstMet2.d16f6035d5d01b5f0dd7.png",
+    "static/media/Trip1.png": "/ILoveYou/static/media/Trip1.1a2804f0c8c587dfb1ab.png",
+    "static/media/LongDistance.png": "/ILoveYou/static/media/LongDistance.181be1591ed9a3143d3a.png",
+    "static/media/Dating1.png": "/ILoveYou/static/media/Dating1.f05cf025274cbdfd7f0c.png",
+    "static/media/FirstKiss1.png": "/ILoveYou/static/media/FirstKiss1.c225bbe8e95d5cd8f95f.png",
+    "static/media/ILoveYou1.png": "/ILoveYou/static/media/ILoveYou1.c4aa5fa35e7c591839c3.png",
+    "static/media/Together1.png": "/ILoveYou/static/media/Together1.298952b6ff9d80d9b877.png",
+    "static/media/Anniversary2.png": "/ILoveYou/static/media/Anniversary2.8dcf6a868a10d6283e02.png",
+    "static/media/Together2.png": "/ILoveYou/static/media/Together2.e1f3c5b8941cecf4b2c3.png",
+    "static/media/Anniversary1.png": "/ILoveYou/static/media/Anniversary1.d1c4f1c1d8e543664ae1.png",
+    "static/media/FirstMet1.png": "/ILoveYou/static/media/FirstMet1.78c56233662a854d3712.png",
+    "static/media/Dating2.png": "/ILoveYou/static/media/Dating2.c17c19fb3feca4f0e211.png",
+    "static/media/Engaged.png": "/ILoveYou/static/media/Engaged.4c65bcf5c9d24c6522f0.png",
+    "index.html": "/ILoveYou/index.html",
+    "main.fffa5dd9.css.map": "/ILoveYou/static/css/main.fffa5dd9.css.map",
+    "main.84a1420c.js.map": "/ILoveYou/static/js/main.84a1420c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fffa5dd9.css",
+    "static/js/main.84a1420c.js"
+  ]
+}
