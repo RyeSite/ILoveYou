@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ILoveYou/static/css/main.14c2929a.css",
-    "main.js": "/ILoveYou/static/js/main.91940a41.js",
+    "main.js": "/ILoveYou/static/js/main.bb2b8ff1.js",
     "static/media/FirstKiss2.png": "/ILoveYou/static/media/FirstKiss2.af9d05a635cf6489f61b.png",
     "static/media/ILoveYou2.png": "/ILoveYou/static/media/ILoveYou2.d0e0a9cf426182a93439.png",
     "static/media/Trip2.png": "/ILoveYou/static/media/Trip2.dc87b27034b68ad0798f.png",
@@ -20,10 +20,10 @@
     "static/media/Engaged.png": "/ILoveYou/static/media/Engaged.4c65bcf5c9d24c6522f0.png",
     "index.html": "/ILoveYou/index.html",
     "main.14c2929a.css.map": "/ILoveYou/static/css/main.14c2929a.css.map",
-    "main.91940a41.js.map": "/ILoveYou/static/js/main.91940a41.js.map"
+    "main.bb2b8ff1.js.map": "/ILoveYou/static/js/main.bb2b8ff1.js.map"
   },
   "entrypoints": [
     "static/css/main.14c2929a.css",
-    "static/js/main.91940a41.js"
+    "static/js/main.bb2b8ff1.js"
   ]
 }
